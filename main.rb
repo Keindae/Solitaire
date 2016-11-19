@@ -1,3 +1,8 @@
+#Author: Matt Noblett
+#Assignment: Ruby Assignment 3
+#Due Date: 11/18/2016
+
+
 require_relative 'Deck'
 
 #Prompts the user for input. 
